@@ -4,7 +4,7 @@ Getting Software
 
 Witness Nodes
 
-Solidity Nodes
+[Solidity Nodes](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/Building%20Nodes/Solidity%20Node
 
 Upgrading
 
