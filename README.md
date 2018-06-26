@@ -7,9 +7,9 @@
 
 [Wallet-CLI - API](https://github.com/Pythagoras51213/Documentation/tree/master/English_Documentation/Wallet%20CLI)
 
-Account Details
+[Account Details](https://github.com/Pythagoras51213/Documentation/tree/master/English_Documentation/Account%20Info)
 
-Other Wallet and Tools
+[Other Wallet and Tools](
 
 Building Nodes
 
