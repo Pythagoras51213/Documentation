@@ -9,7 +9,7 @@
 
 [Glossary of Terms](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction/Glossary%20of%20Terms.md)
 
-
+[Tron FAQ](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction/Tron%20FAQ.md)
 
 
 
