@@ -1,6 +1,6 @@
 # Documentation Links
 
-[TRON Introduction and Overview] (https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction)
+[TRON Introduction and Overview](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction)
 
 
 [TRON Block Exporer](https://github.com/tronprotocol/Documentation/tree/master/English_Documentation/TRON_Protocol)  
