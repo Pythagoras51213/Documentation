@@ -10,7 +10,7 @@
 
 [Other Wallet and Tools](https://github.com/Pythagoras51213/Documentation/tree/master/English_Documentation/Other%20Wallets%20and%20Tools)
 
-[Building Nodes](https://github.com/Pythagoras51213/Documentation/tree/master/English_Documentation/Creating%20and%20Joining%20Testnets)
+[Building Nodes](https://github.com/Pythagoras51213/Documentation/tree/master/English_Documentation/Building%20Nodes)
 
 [Creating and Joining Testnets](https://github.com/Pythagoras51213/Documentation/tree/master/English_Documentation/Creating%20and%20Joining%20Testnets)
 
