@@ -9,7 +9,7 @@
 
 [Account Details](https://github.com/Pythagoras51213/Documentation/tree/master/English_Documentation/Account%20Info)
 
-[Other Wallet and Tools](
+[Other Wallet and Tools](https://github.com/Pythagoras51213/Documentation/tree/master/English_Documentation/Other%20Wallets%20and%20Tools)
 
 Building Nodes
 
