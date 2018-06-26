@@ -1,9 +1,5 @@
 # Documentation
 
-# Translation Guide
-
-+ If you want to help out with documentation translations, you can do so by clicking the following link: https://crowdin.com/project/trondocs
-
 # Documentation Guide
 
 [TRON Introduction and Overview](https://github.com/tronprotocol/Documentation/tree/master/English_Documentation/TRON_Introduction).  
@@ -27,3 +23,7 @@ Super Representatives
 Creating and Issuing TRX-20 Tokens
 
 Additional Technical Documentation
+
+# Translation Guide
+
++ If you want to help out with documentation translations, you can do so by clicking the following link: https://crowdin.com/project/trondocs
