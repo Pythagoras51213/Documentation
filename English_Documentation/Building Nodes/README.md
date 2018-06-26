@@ -1,5 +1,4 @@
 Getting Software
-[TRON Introduction and Overview](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction)
 
 [Full Nodes](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/Building%20Nodes/Full%20Node.md)
 
