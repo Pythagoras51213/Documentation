@@ -23,6 +23,6 @@ Creating and Issuing TRX-20 Tokens
 
 Additional Technical Documentation
 
-# Translation Guide
+# Help us Translate
 
 + If you want to help out with documentation translations, you can do so by clicking the following link: https://crowdin.com/project/trondocs
