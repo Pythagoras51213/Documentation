@@ -1,22 +1,6 @@
-Documentation Links
-TRON Introduction and Overview
 
-TRON Block Exporer
+[What is Tron](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction/What%20is%20Tron.md)
 
-Wallet-CLI - API
 
-Account Details
 
-Other Wallet and Tools
 
-Building Nodes
-
-Creating and Joining Testnets
-
-Promotions and Contests
-
-Super Representatives
-
-Creating and Issuing TRX-20 Tokens
-
-Additional Technical Documentation
