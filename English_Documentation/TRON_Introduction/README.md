@@ -5,7 +5,7 @@
 
 [Tron Road Map](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction/Tron%20Road%20Map.md)
 
-Tron Architecture
+[Tron Architecture](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction/TRON%20Architecture.md)
 
 [Glossary of Terms](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction/Glossary%20of%20Terms.md)
 
