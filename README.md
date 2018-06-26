@@ -1,6 +1,4 @@
-# Documentation
-
-# Documentation Guide
+# Documentation Links
 
 [TRON Introduction and Overview](https://github.com/tronprotocol/Documentation/tree/master/English_Documentation/TRON_Introduction).  
 
