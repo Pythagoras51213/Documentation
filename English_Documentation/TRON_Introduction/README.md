@@ -1,7 +1,7 @@
 
 [What is Tron](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction/What%20is%20Tron.md)
 
-[Community Forums and Contacts](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction/Community.md)
+[Community Forums and Contacts](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction/Community%20Forums%20and%20Contacts.md)
 
 [Tron Road Map](https://github.com/Pythagoras51213/Documentation/blob/master/English_Documentation/TRON_Introduction/Tron%20Road%20Map.md)
 
