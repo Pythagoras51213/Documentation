@@ -1,10 +1,10 @@
 # Documentation Links
 
-[TRON Introduction and Overview](https://github.com/tronprotocol/Documentation/tree/master/English_Documentation/TRON_Introduction).  
+[TRON Introduction and Overview](https://github.com/tronprotocol/Documentation/tree/master/English_Documentation/TRON_Introduction)  
 
-[TRON Block Exporer](https://github.com/tronprotocol/Documentation/tree/master/English_Documentation/TRON_Protocol).  
+[TRON Block Exporer](https://github.com/tronprotocol/Documentation/tree/master/English_Documentation/TRON_Protocol)  
 
-[Wallet-CLI - API](https://github.com/ybhgenius/Documentation/tree/master/English_Documentation/TRON_Blockchain_Explorer). 
+[Wallet-CLI - API](https://github.com/ybhgenius/Documentation/tree/master/English_Documentation/TRON_Blockchain_Explorer)
 
 Account Details
 
